@@ -1,0 +1,11 @@
+torch
+matplotlib
+seaborn
+lightning
+pandas
+scikit-learn
+bertopic
+datasets
+datamapplot
+wordcloud
+jupyter
