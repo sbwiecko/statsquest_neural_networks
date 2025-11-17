@@ -1,3 +1,5 @@
 .env
 .vscode
 *epoch*
+runs/
+lightning_logs/
